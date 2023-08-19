@@ -1,0 +1,43 @@
+/*CSS rules to specify families:
+font-family: 'Playfair Display SC', serif;
+font-family: 'Quattrocento', serif;*/
+/*paleta de colores en base a este color: #88C3C1*/
+/*elijo paletas: Switch Palette y Matching Palette*/
+/*<i class="bi-alarm" style="font-size: 2rem; color: cornflowerblue;"></i>*/
+body{
+    margin:0;
+}
+
+h1{
+    font-family: 'Playfair Display SC', serif;
+    color:#003534;
+    font-weight: bolder;
+   
+
+}
+p{
+    font-family: 'Lora', serif;
+    color:#003534;
+}
+.gradiente{
+    background: rgb(218,175,157);
+    background: linear-gradient(90deg, rgba(218,175,157,1) 0%, rgba(136,195,193,0.938813025210084) 100%);
+}
+h2, h4{
+    font-family: 'Lora', bold;
+    color: #324B4A;
+}
+
+.btn:hover{
+    box-shadow: 0 0 2em 0.2em #95b1af94;
+}
+
+.dark{
+    background-color: #324B4A;
+}
+
+.contact, .email{
+    color: #daaf9d;
+}
+
+
